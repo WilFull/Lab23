@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GenMVVMTemplate</string>
+    <string name="generate">generate</string>
+
+    <string name="generated_list_fragment_label">Generated List Fragment</string>
+    <string name="n">N</string>
+    <string name="k">K</string>
+    <string name="y">Y</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+</resources>
