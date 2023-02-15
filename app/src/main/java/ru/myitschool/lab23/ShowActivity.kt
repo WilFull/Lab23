@@ -2,10 +2,8 @@ package ru.myitschool.lab23
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.AbsListView.RecyclerListener
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import androidx.recyclerview.widget.RecyclerView.Recycler
 
 data class RandomValue(val value: String)
 
